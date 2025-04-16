@@ -1,0 +1,10 @@
+# SwiftPM
+Package.resolved
+.swiftpm/
+
+.DS_Store
+/.build
+/Packages
+xcuserdata/
+DerivedData/
+.netrc
